@@ -1,5 +1,5 @@
 # Tableau-Sample 
-(data collected 04/2018)
+Data collection: 04/2018
 
 ![DISTRICT DASHBOARD](https://user-images.githubusercontent.com/33337655/235364906-d47fa869-b8ac-4c05-88d2-8bb7b06f310b.png)
 ![DISTRICT DASHBOARD (Houston)](https://user-images.githubusercontent.com/33337655/235365820-5567f42a-5882-4e31-b87c-68ccf649ddf1.png)
