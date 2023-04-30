@@ -3,7 +3,7 @@
 ![DISTRICT DASHBOARD](https://user-images.githubusercontent.com/33337655/235364906-d47fa869-b8ac-4c05-88d2-8bb7b06f310b.png)
 ![DISTRICT DASHBOARD (Houston)](https://user-images.githubusercontent.com/33337655/235365820-5567f42a-5882-4e31-b87c-68ccf649ddf1.png)
 
-EVENT COUNT BY TDEM DISTRICT/COUNTY
+EVENT COUNT BY TDEM DISTRICT/COUNTY (data collected 04/2018)
 Initial page shows grand totals for map chart, district bar chart, and county chart
 
 DRILL DOWN OPTIONS
