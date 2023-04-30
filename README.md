@@ -1,5 +1,5 @@
 # Tableau-Sample
-![DISTRICT DASHBOARD](https://user-images.githubusercontent.com/33337655/235332226-996945d4-2594-4ce9-998e-cacd361ed4bb.png)
+
 
 EVENT COUNT BY TDEM DISTRICT/COUNTY
 Initial page shows grand totals for map chart, district bar chart, and county chart
@@ -83,9 +83,10 @@ Type:	federated
 Table:	STORMCSV#csv
 
 
-![COST DASHBOARD](https://user-images.githubusercontent.com/33337655/235332244-328217ec-f51d-4e8f-9d6b-46b3b73e4bef.png)
+![COST DASHBOARD](https://user-images.githubusercontent.com/33337655/235363162-455924d4-21ac-4c7d-9f32-745f966b3165.png)
+![DISTRICT DASHBOARD](https://user-images.githubusercontent.com/33337655/235363164-750bb872-89e7-45e4-8640-4761e897da9e.png)
+![AFFECT BY DISTRICTCOUNTY](https://user-images.githubusercontent.com/33337655/235363165-823456a9-34a0-40dd-b918-21ba9154c80b.png)
 
-![AFFECT BY DISTRICTCOUNTY](https://user-images.githubusercontent.com/33337655/235362353-10f75b00-dc02-489a-8a29-49ca304a62ef.png)
 
 
 
