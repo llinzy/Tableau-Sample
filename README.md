@@ -83,6 +83,7 @@ Data Source:	STORMCSV
 Type:	federated
 Table:	STORMCSV#csv
 
+![COUNT BY MONTHYEAR](https://user-images.githubusercontent.com/33337655/235365520-2b50c598-75f7-4116-9df0-acdb336b4905.png)
 
 ![COST DASHBOARD](https://user-images.githubusercontent.com/33337655/235365349-3b3d9348-fa0f-4425-94c9-28dedae0d9dd.png)
 
