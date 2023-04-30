@@ -84,9 +84,7 @@ Type:	federated
 Table:	STORMCSV#csv
 
 
-![COST DASHBOARD](https://user-images.githubusercontent.com/33337655/235364905-9cdc371a-9ef3-4608-8b6d-f7962b0e2eb8.png)
+![COST DASHBOARD](https://user-images.githubusercontent.com/33337655/235365349-3b3d9348-fa0f-4425-94c9-28dedae0d9dd.png)
 
-![AFFECT BY DISTRICTCOUNTY](https://user-images.githubusercontent.com/33337655/235364907-6e17c0ae-d9b2-445b-ac98-6ba407c41fbc.png)
-
-
+![AFFECT BY DISTRICTCOUNTY](https://user-images.githubusercontent.com/33337655/235365350-3e95014b-2ec8-469b-8950-3c389b10ef0b.png)
 
