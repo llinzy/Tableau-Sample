@@ -1,6 +1,7 @@
 # Tableau-Sample
 
 ![DISTRICT DASHBOARD](https://user-images.githubusercontent.com/33337655/235364906-d47fa869-b8ac-4c05-88d2-8bb7b06f310b.png)
+![DISTRICT DASHBOARD (Houston)](https://user-images.githubusercontent.com/33337655/235365820-5567f42a-5882-4e31-b87c-68ccf649ddf1.png)
 
 EVENT COUNT BY TDEM DISTRICT/COUNTY
 Initial page shows grand totals for map chart, district bar chart, and county chart
@@ -86,6 +87,9 @@ Table:	STORMCSV#csv
 ![COUNT BY MONTHYEAR](https://user-images.githubusercontent.com/33337655/235365520-2b50c598-75f7-4116-9df0-acdb336b4905.png)
 
 ![COST DASHBOARD](https://user-images.githubusercontent.com/33337655/235365349-3b3d9348-fa0f-4425-94c9-28dedae0d9dd.png)
+![COST DASHBOARD (Houston)](https://user-images.githubusercontent.com/33337655/235365818-61567539-3097-4d1b-9dc0-8c480da29ccd.png)
 
 ![AFFECT BY DISTRICTCOUNTY](https://user-images.githubusercontent.com/33337655/235365350-3e95014b-2ec8-469b-8950-3c389b10ef0b.png)
+![AFFECT BY DISTRICTCOUNTY (Houston)](https://user-images.githubusercontent.com/33337655/235365817-4693aef0-9c95-4433-97db-4d7a04b9d540.png)
+
 
