@@ -85,7 +85,7 @@ Table:	STORMCSV#csv
 
 ![COST DASHBOARD](https://user-images.githubusercontent.com/33337655/235332244-328217ec-f51d-4e8f-9d6b-46b3b73e4bef.png)
 
-![AFFECT BY DISTRICT_COUNTY](https://user-images.githubusercontent.com/33337655/235332233-d52800bf-9c95-4e7c-be41-b75bca4c95c6.png)
+![AFFECT BY DISTRICTCOUNTY](https://user-images.githubusercontent.com/33337655/235362353-10f75b00-dc02-489a-8a29-49ca304a62ef.png)
 
 
 
